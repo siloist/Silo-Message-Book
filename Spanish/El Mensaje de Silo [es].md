@@ -1,4 +1,4 @@
-EL MENSAJE DE SILO
+# EL MENSAJE DE SILO
 
 Nota de los impresores.
 El Mensaje dado por Silo en julio de 2002, consta de tres partes: el Libro; la Experiencia y el Camino.
@@ -8,21 +8,28 @@ El Camino es un conjunto de reflexiones y sugerencias.
 En esta recopilación está el Mensaje completo. Circula impreso y a través de las redes informáticas.
 
 © Silo. Segunda recopilación, 2007
-EL LIBRO
-I. LA MEDITACIÓN
+
+# EL LIBRO
+
+## I. LA MEDITACIÓN
+
 1.	Aquí se cuenta cómo al sin-sentido de la vida se lo convierte en sentido y plenitud.
 2.	Aquí hay alegría, amor al cuerpo, a la naturaleza, a la humanidad y al espíritu.
 3.	Aquí se reniega de los sacrificios, del sentimiento de culpa y de las amenazas de ultratumba.
 4.	Aquí no se opone lo terreno a lo eterno.
 5.	Aquí se habla de la revelación interior a la que llega todo aquel que cuidadosamente medita en humilde búsqueda.
-II. DISPOSICION PARA COMPRENDER
+
+## II. DISPOSICION PARA COMPRENDER
+
 1.	Sé cómo te sientes porque a tu estado puedo experimentarlo pero tú no sabes cómo se experimenta lo que digo. Por consiguiente, si te hablo con desinterés de aquello que hace feliz y libre al ser humano, vale la pena que intentes comprender.
 2.	No pienses que vas a comprender discutiendo conmigo. Si crees que contrariando esto tu entendimiento se aclara puedes hacerlo pero no es ése el camino que corresponde en este caso.
 3.	Si me preguntas cuál es la actitud que conviene, te diré que es la de meditar en profundidad y sin apuro lo que te explico aquí.
 4.	Si replicas que tienes cosas más urgentes en qué ocuparte, responderé que siendo tu deseo dormir o morir, no haré nada para oponerme.
 5.	No argumentes tampoco que te desagrada mi modo de presentar las cosas porque eso no dices de la cáscara cuando te agrada el fruto.
 6.	Expongo del modo que me parece conveniente no del que fuera deseable para quienes aspiran a cosas alejadas de la verdad interior.
-III. EL SIN-SENTIDO
+
+## III. EL SIN-SENTIDO
+
 En muchos días descubrí esta gran paradoja: aquellos que llevaron el fracaso en su corazón pudieron alumbrar el último triunfo, aquellos que se sintieron triunfadores quedaron en el camino como vegetales de vida difusa y apagada. En muchos días llegué yo a la luz desde las oscuridades más oscuras guiado no por enseñanza sino por meditación.
 Así me dije el primer día:
 1.	No hay sentido en la vida si todo termina con la muerte.
@@ -38,14 +45,18 @@ Así me dije el primer día:
 11.	Lo dicho hoy por mí o por otros, no vale mañana.
  Morir no es mejor que vivir o no haber nacido, pero tampoco es peor.
  Descubrí no por enseñanza, sino por experiencia y meditación, que no hay sentido en la vida si todo termina con la muerte.
-IV. LA DEPENDENCIA
+
+## IV. LA DEPENDENCIA
+
 El día segundo.
 1.	Todo lo que hago, siento y pienso, no depende de mí.
 2.	Soy variable y dependo de la acción del medio. Cuando quiero cambiar al medio o a mi “yo”, es el medio el que me cambia. Entonces busco la ciudad o la naturaleza, la redención social o una nueva lucha que justifique mi existencia... En cada uno de esos casos el medio me lleva a decidir por una u otra actitud. De tal manera mis intereses y el medio aquí me dejan.
 3.	Digo entonces que no importa qué o quién decide. Digo en esas ocasiones que tengo que vivir, ya que estoy en situación de vivir. Digo todo esto pero no hay nada que lo justifique. Puedo decidirme, vacilar o permanecer. De todas maneras una cosa es mejor que otra, provisoriamente, pero no hay “mejor” ni “peor” en definitiva.
 4.	Si alguien me dice que aquél que no come muere le responderé que así es, en efecto, y que está obligado a comer aguijoneado por sus necesidades pero no agregaré a esto que su lucha por comer justifica su existencia. Tampoco diré que ello sea malo. Diré, con sencillez, que se trata de un hecho individual o colectivamente necesario para la subsistencia pero sin sentido en el momento en que se pierde la última batalla.
 5.	Diré, además, que me solidarizo con la lucha del pobre y del explotado y del perseguido. Diré que me siento “realizado” con tal identificación pero comprenderé que nada justifico.
-V. SOSPECHA DEL SENTIDO
+
+## V. SOSPECHA DEL SENTIDO
+
 El día tercero.
 1.	A veces me he adelantado a hechos que luego sucedieron.
 2.	A veces he captado un pensamiento lejano.
@@ -57,12 +68,16 @@ El día tercero.
 8.	A veces he roto mis ensueños y he visto la realidad de un modo nuevo.
 9.	A veces he reconocido como visto nuevamente algo que veía por primera vez.
 ...Y todo ello me ha dado que pensar. Buena cuenta me doy que, sin esas experiencias, no podría haber salido del sin-sentido.
-VI. SUEÑO Y DESPERTAR
+
+## VI. SUEÑO Y DESPERTAR
+
 El día cuarto.
 1.	No puedo tomar por real lo que veo en mis sueños, tampoco lo que veo en semisueño, tampoco lo que veo despierto pero ensoñando.
 2.	Puedo tomar por real lo que veo despierto y sin ensueño. Ello no habla de lo que registran mis sentidos sino de las actividades de mi mente cuando se refieren a los “datos” pensados. Porque los datos ingenuos y dudosos los entregan los sentidos externos y también los internos y también la memoria. Lo válido es que mi mente lo sabe cuando está despierta y lo cree cuando está dormida. Rara vez percibo lo real de un modo nuevo y entonces comprendo que lo visto normalmente se parece al sueño o se parece al semisueño.
 Hay una forma real de estar despierto: es la que me ha llevado a meditar profundamente sobre lo dicho hasta aquí y es, además, la que me abrió la puerta para descubrir el sentido de todo lo existente.
-VII. PRESENCIA DE LA FUERZA
+
+## VII. PRESENCIA DE LA FUERZA
+
 El día quinto.
 1.	Cuando estaba realmente despierto iba escalando de comprensión en comprensión.
 2.	Cuando estaba realmente despierto y me faltaba vigor para continuar en el ascenso podía extraer la Fuerza de mí mismo. Ella estaba en todo mi cuerpo. Toda la energía estaba hasta en las más pequeñas células de mi cuerpo. Esta energía circulaba y era más veloz e intensa que la sangre.
@@ -70,7 +85,9 @@ El día quinto.
 4.	Durante las enfermedades la energía faltaba o se acumulaba exactamente en los puntos afectados. Pero si lograba restablecer su pasaje normal muchas enfermedades empezaban a retroceder.
 Algunos pueblos conocieron esto y actuaron restableciendo la energía mediante diversos procedimientos hoy extraños a nosotros. 
 Algunos pueblos conocieron esto y actuaron comunicando esa energía a otros. Entonces se produjeron “iluminaciones” de comprensión y hasta “milagros” físicos.
-VIII. CONTROL DE LA FUERZA
+
+## VIII. CONTROL DE LA FUERZA
+
 El día sexto.
 1.	Hay una forma de dirigir y concentrar la Fuerza que circula por el cuerpo.
 2.	Hay puntos de control en el cuerpo. De ellos depende lo que conocemos como movimiento, emoción e idea. Cuando la energía actúa en esos puntos se producen las manifestaciones motrices, emotivas e intelectuales.
@@ -78,7 +95,9 @@ El día sexto.
 4.	Hay un punto de control del estar-despierto-verdadero y hay una forma de llevar la Fuerza hasta él.
 5.	Cuando se lleva la energía a ese lugar todos los otros puntos de control se mueven alteradamente.
 Al entender esto y lanzar la Fuerza a ese punto superior, todo mi cuerpo sintió el impacto de una energía enorme y ella golpeó fuertemente en mi conciencia y ascendí de comprensión en comprensión. Pero también observé que podía bajar hacia las profundidades de la mente si perdía el control de la energía. Recordé entonces las leyendas sobre los “cielos” y los “infiernos” viendo la línea divisoria entre ambos estados mentales.
-IX. MANIFESTACIONES DE LA ENERGÍA
+
+## IX. MANIFESTACIONES DE LA ENERGÍA
+
 El día séptimo.
 1.	Esta energía en movimiento podía “independizarse” del cuerpo manteniendo su unidad.
 2.	Esta energía unida era una suerte de “doble cuerpo” que correspondía a la representación cenestésica del propio cuerpo en el interior del espacio de representación. De la existencia de este espacio, así como de las representaciones que correspondían a las sensaciones internas del cuerpo, las ciencias que trataban sobre los fenómenos mentales no daban noticia suficiente.
@@ -86,18 +105,24 @@ El día séptimo.
 4.	Pude comprobar que la “exteriorización” de esa energía que representaba al propio cuerpo como “afuera” del cuerpo, se producía ya desde los niveles más bajos de la mente. En esos casos sucedía que el atentado contra la unidad más primaria de la vida provocaba esa respuesta como salvaguardia de lo amenazado. Por ello, en el trance de algunos médiums cuyo nivel de conciencia era bajo y cuya unidad interna estaba en peligro, estas respuestas eran involuntarias y no reconocidas como producidas por ellos mismos sino atribuidas a otras entidades.
 Los “fantasmas” o “espíritus” de algunos pueblos o de algunos adivinos no eran sino los propios “dobles” (las propias representaciones), de aquellas personas que se sentían tomadas por ellos. Como su estado mental estaba oscurecido (en trance), por haber perdido control de la Fuerza, se sentían manejadas por seres extraños que a veces producían fenómenos notables. Sin duda que muchos “endemoniados” sufrieron tales efectos. Lo decisivo era, entonces, el control de la Fuerza.
 Esto variaba por completo tanto mi concepción de la vida corriente como de la vida posterior a la muerte. Mediante estos pensamientos y experiencias fui perdiendo fe en la muerte y desde entonces no creo en ella, como no creo en el sin-sentido de la vida.
-X. EVIDENCIA DEL SENTIDO
+
+## X. EVIDENCIA DEL SENTIDO
+
 El día octavo.
 1.	La real importancia de la vida despierta se me hizo patente.
 2.	La real importancia de destruir las contradicciones internas me convenció.
 3.	La real importancia de manejar la Fuerza, a fin de lograr unidad y continuidad, me llenó de un alegre sentido.
-XI. EL CENTRO LUMINOSO
+
+## XI. EL CENTRO LUMINOSO
+
 El día noveno.
 1.	En la Fuerza estaba la “luz” que provenía de un “centro”.
 2.	En la disolución de la energía había un alejamiento del centro y en su unificación y evolución, un correspondiente funcionamiento del centro luminoso.
 No me extrañó encontrar en antiguos pueblos la devoción por el dios-Sol y comprendí que si algunos adoraron al astro porque daba vida a su tierra y a la naturaleza, otros advirtieron en ese cuerpo majestuoso el símbolo de una realidad mayor. 
 Hubo quienes fueron más lejos aún y recibieron de ese centro incontables dones que a veces “descendieron” como lenguas de fuego sobre los inspirados, a veces como esferas luminosas, a veces como zarzas ardientes que se presentaron ante el temeroso creyente.
-XII. LOS DESCUBRIMIENTOS
+
+## XII. LOS DESCUBRIMIENTOS
+
 El día décimo.
 Pocos pero importantes fueron mis descubrimientos, que resumo de este modo:
 1.	La Fuerza circula por el cuerpo involuntariamente pero puede ser orientada por un esfuerzo consciente. El logro de un cambio dirigido, en el nivel de conciencia, brinda al ser humano un importante atisbo de liberación de las condiciones “naturales” que parecen imponerse a la conciencia.
@@ -105,7 +130,9 @@ Pocos pero importantes fueron mis descubrimientos, que resumo de este modo:
 3.	Hay diferencias entre el estado de despierto-verdadero y otros niveles de conciencia.
 4.	Puede conducirse la Fuerza al punto del real despertar (entendiendo por “Fuerza” a la energía mental que acompaña a determinadas imágenes y por “punto” a la ubicación de una imagen en un “lugar” del espacio de representación).
 Estas conclusiones me hicieron reconocer en las oraciones de los pueblos antiguos, el germen de una gran verdad que se oscureció en los ritos y prácticas externas no alcanzando ellos a desarrollar el trabajo interno que, realizado con perfección, pone al hombre en contacto con su fuente luminosa. Finalmente, advertí que mis “descubrimientos” no eran tales sino que se debían a la revelación interior a la que accede todo aquel que, sin contradicciones, busca la luz en su propio corazón.
-XIII. LOS PRINCIPIOS
+
+## XIII. LOS PRINCIPIOS
+
 Distinta es la actitud frente a la vida y a las cosas cuando la revelación interna hiere como el rayo.
 Siguiendo los pasos lentamente, meditando lo dicho y lo por decir aún, puedes convertir el sin-sentido en sentido. No es indiferente lo que hagas con tu vida. Tu vida, sometida a leyes, está expuesta ante posibilidades a escoger. Yo no te hablo de libertad. Te hablo de liberación, de movimiento, de proceso. No te hablo de libertad como algo quieto, sino de liberarse paso a paso como se va liberando del necesario camino recorrido el que se acerca a su ciudad. Entonces, “lo que se debe hacer” no depende de una moral lejana, incomprensible y convencional, sino de leyes: leyes de vida, de luz, de evolución.
 He aquí los llamados “Principios” que pueden ayudar en la búsqueda de la unidad interior.
@@ -123,7 +150,9 @@ He aquí los llamados “Principios” que pueden ayudar en la búsqueda de la u
 12.	Los actos contradictorios o unitivos se acumulan en ti. Si repites tus actos de unidad interna ya nada podrá detenerte.
 Serás como una fuerza de la Naturaleza cuando a su paso no encuentra resistencia. Aprende a distinguir aquello que es dificultad, problema, inconveniente, de esto que es contradicción. Si aquellos te mueven o te incitan, ésta te inmoviliza en círculo cerrado. 
 Cuando encuentres una gran fuerza, alegría y bondad en tu corazón, o cuando te sientas libre y sin contradicciones, inmediatamente agradece en tu interior. Cuando te suceda lo contrario pide con fe y aquel agradecimiento que acumulaste volverá convertido y ampliado en beneficio.
-XIV. LA GUÍA DEL CAMINO INTERNO
+
+## XIV. LA GUÍA DEL CAMINO INTERNO
+
 Si has comprendido lo explicado hasta aquí bien puedes experimentar, mediante un simple trabajo, la manifestación de la Fuerza. Ahora bien, no es igual que observes una posición mental más o menos correcta (como si se tratara de una disposición al quehacer técnico), a que asumas un tono y una apertura emotiva próxima a la que inspiran los poemas. Es por ello que el lenguaje usado para trasmitir estas verdades tiende a facilitar esa postura que pone con mayor facilidad en presencia de la percepción interna y no de una idea acerca de la “percepción interna”.
 Ahora sigue con atención lo que voy a explicarte ya que trata acerca del paisaje interior que puedes encontrar al trabajar con la Fuerza y de las direcciones que puedes imprimir a tus movimientos mentales:
  “Por el camino interno puedes andar oscurecido o luminoso. Atiende a las dos vías que se abren ante ti.
@@ -139,7 +168,9 @@ La luz pura clarea en las cumbres de las altas cadenas montañosas y las aguas d
 No temas la presión de la luz que te aleja de su centro cada vez más fuertemente. Absórbela como si fuera un líquido o un viento porque en ella, ciertamente, está la vida.
 Cuando en la gran cadena montañosa encuentres la ciudad escondida debes conocer la entrada. Pero esto lo sabrás en el momento en que tu vida sea transformada. Sus enormes murallas están escritas en figuras, están escritas en colores, están ‘sentidas’. En esta ciudad se guarda lo hecho y lo por hacer... Pero a tu ojo interno es opaco lo transparente. Sí, ¡los muros te son impenetrables!
 Toma la Fuerza de la ciudad escondida. Vuelve al mundo de la vida densa con tu frente y tus manos luminosas.”
-XV. LA EXPERIENCIA DE PAZ Y EL PASAJE DE LA FUERZA
+
+## XV. LA EXPERIENCIA DE PAZ Y EL PASAJE DE LA FUERZA
+
 1.	Relaja plenamente tu cuerpo y aquieta la mente. Entonces imagina una esfera transparente y luminosa que, bajando hacia ti, termina por alojarse en tu corazón. Reconocerás al momento que la esfera deja de aparecerse como imagen para transformarse en sensación dentro del pecho.
 2.	Observa cómo la sensación de la esfera se expande lentamente desde tu corazón hacia fuera del cuerpo al tiempo que tu respiración se hace más amplia y profunda. Al llegar la sensación a los límites del cuerpo puedes detener allí toda operación y registrar la experiencia de paz interior. En ella puedes permanecer el tiempo que te parezca adecuado. Entonces haz retroceder esa expansión anterior (llegando, como al comienzo, al corazón) para desprenderte de tu esfera y concluir el ejercicio calmo y reconfortado. A este trabajo se le llama “experiencia de paz”.
 3.	Pero, en cambio, si quisieras experimentar el pasaje de la Fuerza, en lugar de retroceder en la expansión deberías aumentarla dejando que tus emociones y todo tu ser la sigan. No trates de poner tu atención en la respiración. Deja que ella actúe por sí sola mientras sigues la expansión fuera de tu cuerpo.
@@ -149,12 +180,16 @@ XV. LA EXPERIENCIA DE PAZ Y EL PASAJE DE LA FUERZA
 7.	Cuando lo desees puedes terminar con ese singular estado (si es que antes no fue diluyéndose por el simple transcurrir), imaginando o sintiendo que la esfera se contrae y luego sale de ti del modo en que había llegado al comenzar con todo aquello.
 8.	Interesa comprender que numerosos estados alterados de conciencia han sido y son logrados, casi siempre, poniendo en marcha mecanismos similares a los descriptos. Desde luego que revestidos de extraños rituales o a veces reforzados por prácticas de agotamiento, desenfreno motriz, repetición y posturas que, en todos los casos, alteran la respiración y distorsionan la sensación general del intracuerpo. Debes reconocer en ese campo a la hipnosis, la mediumnidad y también la acción de droga que, actuando por otra vía, produce similares alteraciones. Y, por cierto, todos los casos mencionados tienen por signo el no control y el desconocimiento de lo que ocurre. Desconfía de tales manifestaciones y considéralas como simples “trances” por los que han pasado los ignorantes, los experimentadores y aún los “santos”, según cuentan las leyendas.
 9.	Si has trabajado observando lo recomendado puede suceder, no obstante, que no hayas logrado el pasaje. Ello no puede convertirse en foco de preocupación sino en indicador de falta de “soltura” interior, lo que podría reflejar mucha tensión, problemas en la dinámica de imagen y, en suma, fragmentación en el comportamiento emotivo... Cosa que, por otra parte, estará presente en tu vida cotidiana.
-XVI. PROYECCIÓN DE LA FUERZA
+
+## XVI. PROYECCIÓN DE LA FUERZA
+
 1.	Si has experimentado el pasaje de la Fuerza podrás comprender cómo, basándose en fenómenos similares pero sin ninguna comprensión, distintos pueblos pusieron en marcha ritos y cultos que luego se multiplicaron sin cesar. Por medio de experiencias del tipo ya comentado, muchas personas sintieron a sus cuerpos “desdoblados”. La experiencia de la Fuerza les dio la sensación de que a esta energía podían proyectarla fuera de sí.
 2.	La Fuerza fue “proyectada” a otros y también a objetos particularmente “aptos” para recibirla y conservarla. Confío en que no te será difícil entender la función con que cumplieron ciertos sacramentos en distintas religiones e, igualmente, el significado de lugares sagrados y de sacerdotes supuestamente “cargados” con la Fuerza. Cuando algunos objetos fueron adorados con fe en los templos y se los rodeó de ceremonia y rito, seguramente “devolvieron” a los creyentes la energía acumulada por oración repetida. Es una limitación al conocimiento del hecho humano, el que casi siempre se haya visto estas cosas por la explicación externa según cultura, espacio, historia y tradición, cuando la experiencia interna básica es un dato esencial para entender todo esto.
 3.	Este “proyectar”, “cargar” y “restituir” la Fuerza, volverá a ocuparnos más adelante. Pero desde ya te digo que el mismo mecanismo sigue operando aún en sociedades desacralizadas donde los líderes y los hombres de prestigio están nimbados de una especial representación para aquél que los ve y quisiera hasta “tocarlos”, o apoderarse de un fragmento de sus ropas, o de sus utensilios.
 4.	Porque toda representación de lo “alto” va desde el ojo hacia arriba de la línea normal de la mirada. Y “altas” son las personalidades que “poseen” la bondad, la sabiduría y la fuerza. Y en lo “alto” están las jerarquías y los poderes y las banderas y el Estado. Y nosotros, comunes mortales, debemos “ascender” en la escala social y acercarnos al poder a todo coste. Qué mal estamos, manejados aún por esos mecanismos que coinciden con la representación interna, con nuestra cabeza en lo “alto” y nuestros pies pegados a la tierra. Qué mal estamos, cuando se cree en esas cosas (y se cree porque tienen su “realidad” en la representación interna). Qué mal estamos, cuando nuestra mirada externa no es sino proyección ignorada de la interna.
-XVII. PÉRDIDA Y REPRESIÓN DE LA FUERZA
+
+## XVII. PÉRDIDA Y REPRESIÓN DE LA FUERZA
+
 1.	Las mayores descargas de energía se producen por actos descontrolados. Estos son: la imaginación sin freno, la curiosidad sin control, la charla desmedida, la sexualidad excesiva y la percepción exagerada (el mirar, oír, gustar, etc., de manera desbordada y sin objetivo). Pero debes reconocer también que muchos proceden de ese modo porque descargan sus tensiones que de otro modo serían dolorosas. Considerando esto y viendo la función con que cumplen tales descargas convendrás conmigo en que no es razonable reprimirlas sino más bien ordenarlas.
 2.	En cuanto a la sexualidad debes interpretar correctamente esto: tal función no debe ser reprimida porque en este caso crea efectos mortificantes y contradicción interna. La sexualidad se orienta y concluye en su acto pero no es conveniente que siga afectando la imaginación o buscando nuevo objeto de posesión de modo obsesivo.
 3.	El control del sexo por una determinada “moral” social o religiosa sirvió a designios que nada tenían que ver con la evolución sino más bien con lo contrario.
@@ -163,11 +198,15 @@ XVII. PÉRDIDA Y REPRESIÓN DE LA FUERZA
 6.	Si me pides más explicaciones te diré que el sexo es en realidad santo y es el centro desde el cual se impulsa la vida y toda creatividad. Así como desde allí también se impulsa toda destrucción cuando su funcionamiento no está resuelto.
 7.	Jamás creas las mentiras de los envenenadores de la vida cuando se refieren al sexo como algo despreciable. Por el contrario en él hay belleza y no en vano está relacionado con los mejores sentimientos del amor.
 8.	Sé cuidadoso entonces y considéralo como una gran maravilla que debe tratarse con delicadeza sin convertirlo en fuente de contradicción o desintegración de la energía vital.
-XVIII. ACCIÓN Y REACCIÓN DE LA FUERZA
+
+## XVIII. ACCIÓN Y REACCIÓN DE LA FUERZA
+
 Te expliqué anteriormente: “Cuando encuentres una gran fuerza, alegría y bondad en tu corazón, o cuando te sientas libre y sin contradicciones, inmediatamente agradece en tu interior”.
 1.	“Agradecer”, significa concentrar los estados de ánimo positivos asociados a una imagen, a una representación. Ese estado positivo así ligado permite que en situaciones desfavorables, por evocar una cosa, surja aquella que la acompañó en momentos anteriores. Como, además, esta “carga” mental puede estar elevada por repeticiones anteriores ella es capaz de desalojar emociones negativas que determinadas circunstancias pudieran imponer.
 2.	Por todo ello, desde tu interior volverá ampliado en beneficio aquello que pidieras siempre que hubieras acumulado en ti numerosos estados positivos. Y ya no necesito repetir que este mecanismo sirvió (confusamente) para “cargar afuera” objetos o personas, o bien entidades internas que se “proyectaron”, creyéndose que atenderían ruegos y pedidos.
-XIX. LOS ESTADOS INTERNOS
+
+## XIX. LOS ESTADOS INTERNOS
+
 Debes adquirir ahora suficiente percepción de los estados internos en los que te puedes encontrar a lo largo de tu vida y, particularmente, a lo largo de tu trabajo evolutivo. No tengo otra manera de hacer la descripción, que con imágenes (en este caso, alegorías). Éstas, según me parece, tienen por virtud concentrar “visualmente” estados de ánimo complejos. Por otra parte la singularidad de encadenar tales estados, como si fueran distintos momentos de un mismo proceso, introduce una variante en las descripciones siempre fragmentadas a que nos han acostumbrado aquellos que se ocupan de estas cosas.
 1.	El primer estado, en el que prevalece el sin-sentido (aquel que mencionamos al comienzo), será llamado “vitalidad difusa”. Todo se orienta por las necesidades físicas pero estas son confundidas, a menudo, con deseos e imágenes contradictorias. Allí hay oscuridad en los motivos y los quehaceres. Se permanece en ese estado vegetando, perdido entre formas variables. Desde ese punto se puede evolucionar sólo por dos vías: la vía de la muerte o la de mutación.
 2.	La vía de la muerte te pone en presencia de un paisaje caótico y oscuro. Los antiguos conocieron este pasaje y casi siempre lo ubicaron “bajo tierra”, o en las profundidades abisales. También algunos visitaron ese reino para luego “resucitar” en niveles luminosos. Capta bien esto de que “abajo” de la muerte existe la vitalidad difusa. Tal vez la mente humana relacione la desintegración mortal con posteriores fenómenos de transformación y, también, tal vez asocie el movimiento difuso con lo previo al nacimiento. Si tu dirección es de ascenso la “muerte” significa un rompimiento con tu etapa anterior. Por la vía de la muerte se asciende hacia otro estado.
@@ -183,7 +222,9 @@ Debes adquirir ahora suficiente percepción de los estados internos en los que t
 12.	Si en la explanada logras alcanzar el día surgirá ante tus ojos el radiante Sol que ha de alumbrarte por vez primera la realidad. Entonces verás que en todo lo existente vive un Plan.
 13.	Es difícil que caigas desde allí salvo que voluntariamente quieras descender hacia regiones más oscuras para llevar la luz a las tinieblas.
 No es valioso desarrollar más estos temas porque sin experiencia engañan, trasladando al campo de lo imaginario lo realizable. Que sirva lo dicho hasta aquí. Si lo explicado no te fuera útil qué podrías objetar, ya que nada tiene fundamento y razón para el escepticismo, próximo a la imagen de un espejo, al sonido de un eco, a la sombra de una sombra.
-XX. LA REALIDAD INTERIOR
+
+## XX. LA REALIDAD INTERIOR
+
 1.	Repara en mis consideraciones. En ellas no habrás de intuir sino alegóricos fenómenos y paisajes del mundo externo. Pero también en ellas hay descripciones reales del mundo mental.
 2.	Tampoco debes creer que los “lugares” por donde pasas en tu andar, tengan algún tipo de existencia independiente. Semejante confusión hizo a menudo oscurecer profundas enseñanzas y así hasta hoy algunos creen que cielos, infiernos, ángeles, demonios, monstruos, castillos encantados, ciudades remotas y demás, tienen realidad visible para los “iluminados”. El mismo prejuicio, pero con interpretación inversa, ha hecho presa de escépticos sin sabiduría que tomaron esas cosas por simples ilusiones o alucinaciones padecidas por mentes afiebradas.
 3.	Debo repetir, entonces, que en todo esto debes comprender que se trata de verdaderos estados mentales, aunque simbolizados con objetos propios del mundo externo.
@@ -193,8 +234,11 @@ Luego los redentores trajeron sus mensajes y llegaron a nosotros en doble natura
 Sin embargo, cuando se dijo todo aquello colocándolo fuera de la mente, se erró o se mintió. 
 Inversamente, el mundo externo confundido con la interna mirada obliga a ésta a recorrer nuevos caminos. 
 Así, hoy vuela hacia las estrellas el héroe de esta edad. Vuela a través de regiones antes ignoradas. Vuela hacia afuera de su mundo y, sin saberlo, va impulsado hasta el interno y luminoso centro.
-LA EXPERIENCIA
-OFICIO
+
+# LA EXPERIENCIA
+
+## OFICIO
+
 Se realiza a pedido de un conjunto de personas.
 
 Oficiante: Mi mente está inquieta.
@@ -221,7 +265,9 @@ Auxiliar: Con esta Fuerza que hemos recibido, concentremos la mente en el cumpli
 Invita a todos a ponerse de pie para que efectúen el Pedido. Luego transcurre un tiempo.
 Oficiante: ¡Paz, Fuerza y Alegría!
 Conjunto: También para ti, Paz, Fuerza y Alegría.
-IMPOSICIÓN
+
+## IMPOSICIÓN
+
 Se realiza a pedido de una o varias personas. Oficiante y Auxiliar están de pie.
  
 Oficiante: Mi mente está inquieta.
@@ -245,7 +291,9 @@ Invita a todos a ponerse de pie para que efectúen silenciosamente sus pedidos. 
 Transcurre un tiempo.
 Oficiante: ¡Paz, Fuerza y Alegría!
 Conjunto: También para ti, Paz, Fuerza y Alegría.
-BIENESTAR
+
+## BIENESTAR
+
 Se realiza a pedido de un conjunto de personas. Los partícipes, en lo posible, están sentados. Oficiante y auxiliar de pie.
 
 Auxiliar. Aquí estamos reunidos para recordar a nuestros seres queridos. Algunos de ellos tienen dificultades en su vida afectiva, en su vida de relación, o en su salud. Hacia ellos dirigimos nuestros pensamientos y nuestros mejores deseos.
@@ -258,7 +306,9 @@ Se da unos pocos minutos para que los concurrentes puedan concentrar su mente.
 Oficiante. Concluiremos esta ceremonia dando la oportunidad, a quienes así lo deseen, de sentir la presencia de aquellos seres muy queridos que, aunque no están aquí en nuestro tiempo y en nuestro espacio, se relacionan con nosotros en la experiencia del amor, la paz y la cálida alegría...
 Se da un corto tiempo.
 Oficiante. Esto ha sido bueno para otros, reconfortante para nosotros e inspirador para nuestras vidas. Saludamos a todos inmersos en esta correntada de bienestar, reforzada por los buenos deseos de los aquí presentes.
-PROTECCIÓN
+
+## PROTECCIÓN
+
 Ceremonia de participación individual o colectiva. Todos de pie. Oficiante y Auxiliar frente a los niños y éstos, rodeados por los concurrentes.
 
 Auxiliar: Esta ceremonia tiene por objeto dar participación a los niños en nuestra comunidad.
@@ -271,7 +321,9 @@ Oficiante: Pedimos protección para estos niños.
 Auxiliar: Los acogemos con júbilo y nos comprometemos a darles protección.
 Oficiante: Elevemos ahora nuestros mejores deseos... ¡Paz y alegría para todos! 
 Impone amablemente una mano sobre la cabeza de cada niño y lo besa en la frente.
-MATRIMONIO
+
+## MATRIMONIO
+
 Todos de pie. Una o varias parejas. Oficiante y Auxiliar de frente a las parejas.
 
 Auxiliar: Desde tiempos remotos, los casamientos han sido ceremonias de cambio de estado de las personas. 
@@ -286,7 +338,9 @@ Quien es demandado explica en voz alta…
 Oficiante: (Dirigiéndose al otro miembro). ¿Qué es para ti este matrimonio?
 Quien es demandado explica en voz alta...
 Oficiante: Por consiguiente, este matrimonio será de acuerdo a los deseos expresados y a las intenciones más profundas. (Saluda afectuosamente a la/s pareja/s).
-ASISTENCIA
+
+## ASISTENCIA
+
 Esta es una ceremonia de mucho afecto y exige que quien la realiza dé lo mejor de sí.
 La ceremonia puede ser repetida a pedido del interesado o de aquellos que cuidan de él.
 El Oficiante a solas con el moribundo. 
@@ -308,14 +362,18 @@ Estás reconciliado...
 Estás purificado...
 Prepárate a entrar en la más hermosa Ciudad de la Luz, en esta ciudad jamás percibida por el ojo, nunca escuchada en su canto por el oído humano...
 Ven, prepárate a entrar en la más hermosa Luz...
-MUERTE
+
+## MUERTE
+
 Oficiante: La vida ha cesado en este cuerpo. Debemos hacer un esfuerzo para separar en nuestra mente la imagen de este cuerpo y la imagen de quien ahora recordamos...
 Este cuerpo no nos escucha. Este cuerpo no es quien nosotros recordamos...
 Aquel que no siente la presencia de otra vida separada del cuerpo, considere que aunque la muerte haya paralizado al cuerpo, las acciones realizadas siguen actuando y su influencia no se detendrá jamás. Esta cadena de acciones desatadas en vida no puede ser detenida por la muerte. ¡Qué profunda es la meditación en torno a esta verdad, aunque no se comprenda totalmente la transformación de una acción en otra!
 Y aquel que siente la presencia de otra vida separada, considere igualmente que la muerte solo ha paralizado al cuerpo; que la mente una vez más se ha liberado triunfalmente y se abre paso hacia la Luz...
 Sea cual fuere nuestro parecer, no lloremos los cuerpos. Meditemos más bien en la raíz de nuestras creencias y una suave y silenciosa alegría llegará hasta nosotros...
 ¡Paz en el corazón, luz en el entendimiento!
-RECONOCIMIENTO
+
+## RECONOCIMIENTO
+
 El Reconocimiento es una ceremonia de inclusión en la Comunidad. Inclusión por experiencias comunes, por ideales, actitudes y procedimientos compartidos. 
 Se realiza a pedido de un conjunto de personas y luego de un Oficio. Quienes van a participar deben contar con el texto escrito.
 Oficiante y Auxiliar de pie.
@@ -347,7 +405,9 @@ Hoy comenzaremos la renovación de nuestra vida. Empezaremos buscando la paz men
 Oficiante: Para todos Paz, Fuerza y Alegría
 Auxiliar (y todos los presentes): 
 También para ti Paz, Fuerza y Alegría.
-EL CAMINO
+
+# EL CAMINO
+
 Si crees que tu vida termina con la muerte lo que piensas, sientes y haces, no tiene sentido. Todo concluye en la incoherencia, en la desintegración.
 Si crees que tu vida no termina con la muerte, debe coincidir lo que piensas con lo que sientes y con lo que haces. Todo debe avanzar hacia la coherencia, hacia la unidad.
 Si eres indiferente al dolor y el sufrimiento de los demás, toda ayuda que pidas no encontrará justificación
