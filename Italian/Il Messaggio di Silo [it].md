@@ -11,6 +11,8 @@ In questa ricopilazione c’è tutto il Messaggio. Circola stampato e attraverso
 
 
 © Silo. Seconda ricopilazione, 2007
+http://silo.net/
+https://github.com/SiloBooks/Silo-Message-Book
 
 # IL LIBRO
 
