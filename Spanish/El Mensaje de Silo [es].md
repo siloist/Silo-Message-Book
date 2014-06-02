@@ -2,7 +2,7 @@
 
 Nota de los impresores.
 El Mensaje dado por Silo en julio de 2002, consta de tres partes: el Libro; la Experiencia y el Camino.
-El Libro es conocido desde hace tiempo como “La Mirada Interna”. 
+El Libro es conocido desde hace tiempo como “La Mirada Interna”.
 La Experiencia está planteada a través de ocho ceremonias.
 El Camino es un conjunto de reflexiones y sugerencias.
 En esta recopilación está el Mensaje completo. Circula impreso y a través de las redes informáticas.
@@ -83,7 +83,7 @@ El día quinto.
 2.	Cuando estaba realmente despierto y me faltaba vigor para continuar en el ascenso podía extraer la Fuerza de mí mismo. Ella estaba en todo mi cuerpo. Toda la energía estaba hasta en las más pequeñas células de mi cuerpo. Esta energía circulaba y era más veloz e intensa que la sangre.
 3.	Descubrí que la energía se concentraba en los puntos de mi cuerpo cuando éstos actuaban y se ausentaba cuando en ellos no había acción.
 4.	Durante las enfermedades la energía faltaba o se acumulaba exactamente en los puntos afectados. Pero si lograba restablecer su pasaje normal muchas enfermedades empezaban a retroceder.
-Algunos pueblos conocieron esto y actuaron restableciendo la energía mediante diversos procedimientos hoy extraños a nosotros. 
+Algunos pueblos conocieron esto y actuaron restableciendo la energía mediante diversos procedimientos hoy extraños a nosotros.
 Algunos pueblos conocieron esto y actuaron comunicando esa energía a otros. Entonces se produjeron “iluminaciones” de comprensión y hasta “milagros” físicos.
 
 ## VIII. CONTROL DE LA FUERZA
@@ -118,7 +118,7 @@ El día octavo.
 El día noveno.
 1.	En la Fuerza estaba la “luz” que provenía de un “centro”.
 2.	En la disolución de la energía había un alejamiento del centro y en su unificación y evolución, un correspondiente funcionamiento del centro luminoso.
-No me extrañó encontrar en antiguos pueblos la devoción por el dios-Sol y comprendí que si algunos adoraron al astro porque daba vida a su tierra y a la naturaleza, otros advirtieron en ese cuerpo majestuoso el símbolo de una realidad mayor. 
+No me extrañó encontrar en antiguos pueblos la devoción por el dios-Sol y comprendí que si algunos adoraron al astro porque daba vida a su tierra y a la naturaleza, otros advirtieron en ese cuerpo majestuoso el símbolo de una realidad mayor.
 Hubo quienes fueron más lejos aún y recibieron de ese centro incontables dones que a veces “descendieron” como lenguas de fuego sobre los inspirados, a veces como esferas luminosas, a veces como zarzas ardientes que se presentaron ante el temeroso creyente.
 
 ## XII. LOS DESCUBRIMIENTOS
@@ -148,7 +148,7 @@ He aquí los llamados “Principios” que pueden ayudar en la búsqueda de la u
 10.	Cuando tratas a los demás como quieres que te traten te liberas.
 11.	No importa en qué bando te hayan puesto los acontecimientos, lo que importa es que comprendas que tú no has elegido ningún bando.
 12.	Los actos contradictorios o unitivos se acumulan en ti. Si repites tus actos de unidad interna ya nada podrá detenerte.
-Serás como una fuerza de la Naturaleza cuando a su paso no encuentra resistencia. Aprende a distinguir aquello que es dificultad, problema, inconveniente, de esto que es contradicción. Si aquellos te mueven o te incitan, ésta te inmoviliza en círculo cerrado. 
+Serás como una fuerza de la Naturaleza cuando a su paso no encuentra resistencia. Aprende a distinguir aquello que es dificultad, problema, inconveniente, de esto que es contradicción. Si aquellos te mueven o te incitan, ésta te inmoviliza en círculo cerrado.
 Cuando encuentres una gran fuerza, alegría y bondad en tu corazón, o cuando te sientas libre y sin contradicciones, inmediatamente agradece en tu interior. Cuando te suceda lo contrario pide con fe y aquel agradecimiento que acumulaste volverá convertido y ampliado en beneficio.
 
 ## XIV. LA GUÍA DEL CAMINO INTERNO
@@ -229,10 +229,10 @@ No es valioso desarrollar más estos temas porque sin experiencia engañan, tras
 2.	Tampoco debes creer que los “lugares” por donde pasas en tu andar, tengan algún tipo de existencia independiente. Semejante confusión hizo a menudo oscurecer profundas enseñanzas y así hasta hoy algunos creen que cielos, infiernos, ángeles, demonios, monstruos, castillos encantados, ciudades remotas y demás, tienen realidad visible para los “iluminados”. El mismo prejuicio, pero con interpretación inversa, ha hecho presa de escépticos sin sabiduría que tomaron esas cosas por simples ilusiones o alucinaciones padecidas por mentes afiebradas.
 3.	Debo repetir, entonces, que en todo esto debes comprender que se trata de verdaderos estados mentales, aunque simbolizados con objetos propios del mundo externo.
 4.	Toma en cuenta lo dicho y aprende a descubrir la verdad tras las alegorías que en ocasiones desvían a la mente, pero que en otras traducen realidades imposibles de captar sin representación.
-Cuando se habló de las ciudades de los dioses adonde quisieron arribar numerosos héroes de distintos pueblos; cuando se habló de paraísos en que dioses y hombres convivían en original naturaleza transfigurada; cuando se habló de caídas y diluvios, se dijo gran verdad interior. 
-Luego los redentores trajeron sus mensajes y llegaron a nosotros en doble naturaleza, para restablecer aquella nostálgica unidad perdida. También entonces se dijo gran verdad interior. 
-Sin embargo, cuando se dijo todo aquello colocándolo fuera de la mente, se erró o se mintió. 
-Inversamente, el mundo externo confundido con la interna mirada obliga a ésta a recorrer nuevos caminos. 
+Cuando se habló de las ciudades de los dioses adonde quisieron arribar numerosos héroes de distintos pueblos; cuando se habló de paraísos en que dioses y hombres convivían en original naturaleza transfigurada; cuando se habló de caídas y diluvios, se dijo gran verdad interior.
+Luego los redentores trajeron sus mensajes y llegaron a nosotros en doble naturaleza, para restablecer aquella nostálgica unidad perdida. También entonces se dijo gran verdad interior.
+Sin embargo, cuando se dijo todo aquello colocándolo fuera de la mente, se erró o se mintió.
+Inversamente, el mundo externo confundido con la interna mirada obliga a ésta a recorrer nuevos caminos.
 Así, hoy vuela hacia las estrellas el héroe de esta edad. Vuela a través de regiones antes ignoradas. Vuela hacia afuera de su mundo y, sin saberlo, va impulsado hasta el interno y luminoso centro.
 
 # LA EXPERIENCIA
@@ -269,7 +269,7 @@ Conjunto: También para ti, Paz, Fuerza y Alegría.
 ## IMPOSICIÓN
 
 Se realiza a pedido de una o varias personas. Oficiante y Auxiliar están de pie.
- 
+
 Oficiante: Mi mente está inquieta.
 Conjunto: Mi mente está inquieta.
 Oficiante: Mi corazón sobresaltado.
@@ -278,10 +278,10 @@ Oficiante: Mi cuerpo tenso.
 Conjunto: Mi cuerpo tenso.
 Oficiante: Aflojo mi cuerpo, mi corazón y mi mente.
 Conjunto: Aflojo mi cuerpo, mi corazón y mi mente.
-Oficiante y Auxiliar se sientan, dejando transcurrir un tiempo. El Oficiante se pone de pie. 
+Oficiante y Auxiliar se sientan, dejando transcurrir un tiempo. El Oficiante se pone de pie.
 Oficiante: Si quieres recibir la Fuerza debes comprender que en el momento de la Imposición comenzarás a experimentar nuevas sensaciones. Percibirás ondulaciones progresivas y brotarán emociones y recuerdos positivos. Cuando eso ocurra, deja que se produzca el pasaje de la Fuerza libremente...
 Deja que la Fuerza se manifieste en ti y no impidas que ella obre por sí sola...
-Siente la Fuerza y su luminosidad interna... 
+Siente la Fuerza y su luminosidad interna...
 Deja que se manifieste libremente...
 Pasado un tiempo, el Auxiliar se pone de pie.
 Auxiliar: Quien desee recibir la Fuerza, se puede poner de pie.
@@ -319,14 +319,14 @@ En esta ceremonia se pide protección para los niños y la comunidad los acoge c
 Pasado un tiempo, el Oficiante se dirige amablemente a los presentes.
 Oficiante: Pedimos protección para estos niños.
 Auxiliar: Los acogemos con júbilo y nos comprometemos a darles protección.
-Oficiante: Elevemos ahora nuestros mejores deseos... ¡Paz y alegría para todos! 
+Oficiante: Elevemos ahora nuestros mejores deseos... ¡Paz y alegría para todos!
 Impone amablemente una mano sobre la cabeza de cada niño y lo besa en la frente.
 
 ## MATRIMONIO
 
 Todos de pie. Una o varias parejas. Oficiante y Auxiliar de frente a las parejas.
 
-Auxiliar: Desde tiempos remotos, los casamientos han sido ceremonias de cambio de estado de las personas. 
+Auxiliar: Desde tiempos remotos, los casamientos han sido ceremonias de cambio de estado de las personas.
 Cuando alguien termina o comienza una nueva etapa de la vida, suele acompañar a esa situación con un determinado ritual. Nuestra vida personal y social está ligada a rituales más o menos aceptados por las costumbres. Decimos nuestros saludos a la mañana, distintos que a la noche; estrechamos la mano a un conocido; festejamos un cumpleaños, una culminación de estudios o un cambio de trabajo. Nuestros deportes están acompañados de ritual y nuestras ceremonias religiosas, partidarias y cívicas nos colocan en la situación adecuada según sea el caso.
 El matrimonio es un cambio importante en el estado de las personas y en todas las naciones tal hecho exige ciertas formalidades legales. Es decir que la relación conyugal ubica a los consortes en una nueva situación con respecto a la comunidad y al Estado. Pero cuando una pareja establece vínculos conyugales lo hace pensando en un nuevo estilo de vida, lo hace con sentimiento profundo y no con espíritu formal.
 Hay por consiguiente, en esta ceremonia de cambio de estado, la intención de establecer un vínculo nuevo y en lo posible duradero con otra persona. Hay el deseo de recibir del otro lo mejor y dar al otro lo mejor. Hay la intención de llevar el vínculo más lejos, trayendo al mundo o adoptando niños.
@@ -343,7 +343,7 @@ Oficiante: Por consiguiente, este matrimonio será de acuerdo a los deseos expre
 
 Esta es una ceremonia de mucho afecto y exige que quien la realiza dé lo mejor de sí.
 La ceremonia puede ser repetida a pedido del interesado o de aquellos que cuidan de él.
-El Oficiante a solas con el moribundo. 
+El Oficiante a solas con el moribundo.
 Cualquiera sea el aparente estado de lucidez o inconsciencia del moribundo, el Oficiante se aproxima a él hablando con voz suave, clara y pausada.
 
 Oficiante: Los recuerdos de tu vida son el juicio de tus acciones. Puedes, en poco tiempo, recordar mucho de lo mejor que hay en ti. Recuerda entonces, pero sin sobresalto y purifica tu memoria. Recuerda suavemente y tranquiliza tu mente...
@@ -374,36 +374,36 @@ Sea cual fuere nuestro parecer, no lloremos los cuerpos. Meditemos más bien en 
 
 ## RECONOCIMIENTO
 
-El Reconocimiento es una ceremonia de inclusión en la Comunidad. Inclusión por experiencias comunes, por ideales, actitudes y procedimientos compartidos. 
+El Reconocimiento es una ceremonia de inclusión en la Comunidad. Inclusión por experiencias comunes, por ideales, actitudes y procedimientos compartidos.
 Se realiza a pedido de un conjunto de personas y luego de un Oficio. Quienes van a participar deben contar con el texto escrito.
 Oficiante y Auxiliar de pie.
 
 Auxiliar: La realización de esta ceremonia ha sido pedida por aquellas personas que desean incluirse activamente en nuestra Comunidad. Aquí se expresará un compromiso personal y conjunto para trabajar por el mejoramiento de la vida de cada uno y por el mejoramiento de la vida de nuestro prójimo.
 El auxiliar invita a quienes desean dar testimonio a ponerse de pie.
-Oficiante: El dolor y el sufrimiento que experimentamos los seres humanos retrocederán si avanza el buen conocimiento, no el conocimiento al servicio del egoísmo y la opresión. 
-El buen conocimiento lleva a la justicia. 
+Oficiante: El dolor y el sufrimiento que experimentamos los seres humanos retrocederán si avanza el buen conocimiento, no el conocimiento al servicio del egoísmo y la opresión.
+El buen conocimiento lleva a la justicia.
 El buen conocimiento lleva a la reconciliación.
 El buen conocimiento lleva, también, a descifrar lo sagrado en la profundidad de la conciencia.
-Auxiliar (y conjunto de quienes testimonian, leyendo): 
-Consideramos al ser humano como máximo valor por encima del dinero, del Estado, de la religión, de los modelos y de los sistemas sociales. 
-Impulsamos la libertad de pensamiento. 
-Propiciamos la igualdad de derechos y la igualdad de oportunidades para todos los seres humanos. 
-Reconocemos y alentamos la diversidad de costumbres y culturas. 
-Nos oponemos a toda discriminación. 
+Auxiliar (y conjunto de quienes testimonian, leyendo):
+Consideramos al ser humano como máximo valor por encima del dinero, del Estado, de la religión, de los modelos y de los sistemas sociales.
+Impulsamos la libertad de pensamiento.
+Propiciamos la igualdad de derechos y la igualdad de oportunidades para todos los seres humanos.
+Reconocemos y alentamos la diversidad de costumbres y culturas.
+Nos oponemos a toda discriminación.
 Consagramos la resistencia justa contra toda forma de violencia física, económica, racial, religiosa, sexual, psicológica y moral.
-Oficiante: Por otra parte, así como nadie tiene derecho a discriminar a otros por su religión o su irreligiosidad, reclamamos para nosotros el derecho a proclamar nuestra espiritualidad y creencia en la inmortalidad y en lo sagrado. 
+Oficiante: Por otra parte, así como nadie tiene derecho a discriminar a otros por su religión o su irreligiosidad, reclamamos para nosotros el derecho a proclamar nuestra espiritualidad y creencia en la inmortalidad y en lo sagrado.
 Nuestra espiritualidad no es la espiritualidad de la superstición, no es la espiritualidad de la intolerancia, no es la espiritualidad del dogma, no es la espiritualidad de la violencia religiosa; es la espiritualidad que ha despertado de su profundo sueño para nutrir a los seres humanos en sus mejores aspiraciones.
-Auxiliar (y conjunto de quienes testimonian, leyendo): 
-Queremos dar coherencia a nuestras vidas haciendo coincidir lo que pensamos, sentimos y hacemos. 
+Auxiliar (y conjunto de quienes testimonian, leyendo):
+Queremos dar coherencia a nuestras vidas haciendo coincidir lo que pensamos, sentimos y hacemos.
 Deseamos superar la mala conciencia reconociendo nuestros fracasos.
 Aspiramos a persuadir y a reconciliar.
 Nos proponemos dar creciente cumplimiento a esa regla que nos recuerda “tratar a los demás como queremos ser tratados“.
-Oficiante: Comenzaremos una vida nueva. 
+Oficiante: Comenzaremos una vida nueva.
 Buscaremos en nuestro interior los signos de lo sagrado y llevaremos a otros nuestro mensaje.
 Auxiliar (y conjunto de quienes testimonian, leyendo):
 Hoy comenzaremos la renovación de nuestra vida. Empezaremos buscando la paz mental y la Fuerza que nos dé alegría y convicción. Después, iremos hasta las personas más cercanas a compartir con ellas todo lo grande y bueno que nos ha ocurrido.
 Oficiante: Para todos Paz, Fuerza y Alegría
-Auxiliar (y todos los presentes): 
+Auxiliar (y todos los presentes):
 También para ti Paz, Fuerza y Alegría.
 
 # EL CAMINO

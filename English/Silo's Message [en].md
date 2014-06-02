@@ -24,10 +24,10 @@ This edition contains the Message in its entirety. It circulates in both printed
 ## II. DISPOSITION TO COMPREHEND
 
 1.	I know how you feel because I can experience your state, but you do not know how to experience the things I am speaking of. Therefore, if I speak to you without self-interest of that which makes the human being happy and free, it is worth your while to try to comprehend.
-2.	Do not think that you will arrive at understanding by arguing with me. You may do so if you believe that in this way your understanding will become clearer, but it is not the appropriate path in this case. 
+2.	Do not think that you will arrive at understanding by arguing with me. You may do so if you believe that in this way your understanding will become clearer, but it is not the appropriate path in this case.
 3.	If you ask me what attitude is appropriate, I will tell you that it is to meditate profoundly and without haste on what is explained here.
-4.	If you reply that you are busy with more urgent things, I will answer that since your wish is to sleep or to die, I will do nothing to oppose it. 
-5.	Nor should you argue that you dislike my way of presenting things, for you do not criticize the peel when you like the fruit. 
+4.	If you reply that you are busy with more urgent things, I will answer that since your wish is to sleep or to die, I will do nothing to oppose it.
+5.	Nor should you argue that you dislike my way of presenting things, for you do not criticize the peel when you like the fruit.
 6.	I state things in the way I consider appropriate, not as might be desired by those who aspire to things remote from inner truth.
 
 ## III. NON-MEANING
@@ -55,7 +55,7 @@ The second day.
 2.	I am mutable and depend on the action of my surroundings. When I want to change my environment or my “I,” it is the environment that ends up changing me. Then I seek the city or nature, social redemption or a new struggle that will justify my existence. In every case it is my environment that leads me to choose one attitude or another. In this way, my interests and my surroundings leave me here.
 3.	I say, then, that it does not matter who or what decides. I say on these occasions that I have to live since I am in the situation of living. I say all this, but there is nothing that justifies it. I can make a decision, hesitate, or remain where I am. In any case, one thing is only provisionally better than another; ultimately there is no better or worse.
 4.	If someone tells me that those who do not eat die, I will answer that this is indeed so, and that, spurred by their needs, they are compelled to eat. But I will not add that the struggle to eat justifies one’s existence—nor will I say that this struggle is bad. I will simply say that all of this concerns an individual or collective fact related to the need for subsistence, but that it has no meaning in the moment that the last battle is lost.
-5.	I will say, moreover, that I feel solidarity with the struggle of the poor, the exploited, and the persecuted. I will say that I feel “fulfilled” in this identification, but I understand that these feelings do not justify anything. 
+5.	I will say, moreover, that I feel solidarity with the struggle of the poor, the exploited, and the persecuted. I will say that I feel “fulfilled” in this identification, but I understand that these feelings do not justify anything.
 
 ## V. INTIMATION OF MEANING
 
@@ -63,10 +63,10 @@ The third day.
 1.	At times I have anticipated events that later took place.
 2.	At times I have grasped a distant thought.
 3.	At times I have described places I have never been.
-4.	At times I have recounted exactly what took place in my absence. 
+4.	At times I have recounted exactly what took place in my absence.
 5.	At times an immense joy has surprised me.
-6.	At times a total comprehension has overwhelmed me. 
-7.	At times a perfect communion with everything has filled me with ecstasy. 
+6.	At times a total comprehension has overwhelmed me.
+7.	At times a perfect communion with everything has filled me with ecstasy.
 8.	At times I have broken through my reveries and seen reality in a new way.
 9.	At times I have seen something for the first time, yet recognized it as though I had seen it before.
 	…And all this has made me think. It is clear to me that without these experiences I could not have emerged from the non-meaning.
@@ -74,7 +74,7 @@ The third day.
 ## VI. SLEEP AND AWAKENING
 
 The fourth day.
-1.	I cannot take as real what I see in my dreams, nor what I see in semi-sleep, nor what I see when I am awake but in reverie. 
+1.	I cannot take as real what I see in my dreams, nor what I see in semi-sleep, nor what I see when I am awake but in reverie.
 2.	I can take as real what I see when I am awake and without reveries. Here I am not speaking of what my senses register, since naive and dubious “data” can arrive from my external and internal senses as well as from my memory. Rather, I am speaking of the activities of my mind as they relate to the “data” being thought. What is valid is that when my mind is awake it “knows” and when it is asleep it “believes.” Only rarely do I perceive reality in a new way, and it is then that I realize that what I normally see resembles sleep or semi-sleep.
 There is a real way of being awake, and it has led me to meditate profoundly on all that has been said so far. It has, moreover, opened the door for me to discover the meaning of all that exists.
 
@@ -83,7 +83,7 @@ There is a real way of being awake, and it has led me to meditate profoundly on 
 The fifth day.
 1.	When I was truly awake I scaled from comprehension to comprehension.
 2.	When I was truly awake yet lacked the strength to continue the ascent, I was able to draw the Force from within myself. This Force was present throughout my body. All of the energy was present even in the smallest cells of my body, and it circulated more rapidly and more intensely than my blood.
-3.	I discovered that the energy concentrated in those points of my body that were active, and was absent when they were not. 
+3.	I discovered that the energy concentrated in those points of my body that were active, and was absent when they were not.
 4.	During illness the energy was either lacking or it accumulated precisely in the areas of my body that were affected. But if I was able to reestablish the normal flow of the energy, many illnesses began to recede.
 Some peoples knew this, and through various procedures that seem strange to us today they were able to reestablish the flow of the energy.
 Some peoples knew this, and they were able to communicate this energy to others, producing “illuminations” of comprehension and even physical “miracles.”
@@ -111,7 +111,7 @@ All this changed completely my conception of both daily life and of life after d
 ## X. EVIDENCE OF MEANING
 
 The eighth day.
-1.	The real importance of an awakened life became evident to me. 
+1.	The real importance of an awakened life became evident to me.
 2.	The real importance of eliminating internal contradictions convinced me.
 3.	The real importance of mastering the Force in order to achieve unity and continuity filled me with joyful meaning.
 
@@ -162,7 +162,7 @@ If you let your being cast itself toward dark regions, your body wins the battle
 If you impel your being in a luminous direction, you will find resistance and fatigue at every step. There are things to blame for this fatigue in the ascent. Your life weighs; your memories weigh; your previous actions impede the ascent. The climb is made difficult by the action of your body, which tends to dominate.
 In the steps of the ascent you will find strange regions of pure colors and unknown sounds.
 Do not flee purification, which acts like fire and horrifies with its phantoms.
-Reject startling fears and disheartenment. 
+Reject startling fears and disheartenment.
 Reject the desire to flee toward low and dark regions.
 Reject the attachment to memories.
 Remain in internal liberty, indifferent toward the dream of the landscape, with resolution in the ascent.
@@ -185,16 +185,16 @@ Take the Force of the hidden city. Return to the world of dense life with your b
 
 ## XVI. PROJECTION OF THE FORCE
 
-1.	If you have experienced the passage of the Force, you will be able to understand how, based on similar experiences but without understanding, various peoples went on to develop rites and cults that later multiplied endlessly. Through experiences like those previously described there were some who felt that their bodies had “doubled,” and the experience of the Force gave them the sensation that they could project this energy outside themselves. 
+1.	If you have experienced the passage of the Force, you will be able to understand how, based on similar experiences but without understanding, various peoples went on to develop rites and cults that later multiplied endlessly. Through experiences like those previously described there were some who felt that their bodies had “doubled,” and the experience of the Force gave them the sensation that they could project this energy outside themselves.
 2.	The Force could be “projected” to others and also to objects particularly “suited” to receive and conserve it. I trust it will not be difficult for you to understand the function filled by the sacraments of various religions, as well as the significance of those sacred places and priests supposedly “charged” with the Force. When certain objects were surrounded with ceremonies and rites and worshipped with faith in temples, surely they “gave back” to the believers the energy accumulated through repeated prayer. Since fundamental internal experience is essential to understanding in these matters, attempts at understanding based, as is normally the case, solely on externals—whether cultural, geographical, historical, or traditional—reveal a limitation in our knowledge of human realities.
 3.	“Projecting,” “charging,” and “replenishing” the Force are subjects to which we will return later. For now let me say that this same mechanism continues to operate even in desacralized societies, where leaders and others imbued with prestige are surrounded by a special aura in the eyes of those who would like to see them, “touch” them, acquire a scrap of their clothing, or their possessions.
-4.	This occurs because all representations of the “heights” extend from eye level upward, above the normal line of sight. And the “higher-ups” are those who “possess” kindness, wisdom, and strength. There, in the “heights” above, we also find the hierarchies, the powers that be, and the flags of State. And we, ordinary mortals, must at all costs “ascend” the social ladder in order to draw closer to power. What a sorry state we are in, still governed by these mechanisms that coincide with our internal representation, in which our heads are in the “heights” and our feet stuck on the ground. What an unhappy state we are in, when we believe in these things, and believe in them because they have their own “reality” in our internal representation. What a sorry state we are in, when our external look is nothing but an unacknowledged projection of the internal. 
+4.	This occurs because all representations of the “heights” extend from eye level upward, above the normal line of sight. And the “higher-ups” are those who “possess” kindness, wisdom, and strength. There, in the “heights” above, we also find the hierarchies, the powers that be, and the flags of State. And we, ordinary mortals, must at all costs “ascend” the social ladder in order to draw closer to power. What a sorry state we are in, still governed by these mechanisms that coincide with our internal representation, in which our heads are in the “heights” and our feet stuck on the ground. What an unhappy state we are in, when we believe in these things, and believe in them because they have their own “reality” in our internal representation. What a sorry state we are in, when our external look is nothing but an unacknowledged projection of the internal.
 
 ## XVII. LOSS AND REPRESSION OF THE FORCE
 
 1.	The greatest discharges of energy occur through uncontrolled acts, including unbridled imagination, unchecked curiosity, immoderate small talk, excessive sexuality, and exaggerated perception—looking, listening, tasting, and so on in an aimless and excessive manner. But you should also recognize that many act in these ways because it allows them to discharge tensions that would otherwise be painful. All things considered, and given the function served by these discharges, I am sure you will agree with me that it is not reasonable to repress them but rather to give order to them.
 2.	As for sexuality, you must interpret this correctly: This function must not be repressed because that will only cause torment and internal contradiction. Sexuality directs itself toward and concludes in the act itself, and it is not useful that it continues affecting the imagination, or is expressed as an obsessive search for a new object of possession.
-3.	The control of sex by a particular social or religious “morality” has served purposes that had nothing to do with evolution, but the contrary. 
+3.	The control of sex by a particular social or religious “morality” has served purposes that had nothing to do with evolution, but the contrary.
 4.	In repressed societies, the Force (the energy of the representation of the sensation of the intrabody) turned back toward the crepuscular. In those societies, cases increased of the “possessed,” of “witches,” of the sacrilegious, and of criminals of all kinds who rejoiced in suffering and the destruction of life and beauty. In some tribes and civilizations the criminals were to be found among both the accusers and the accused. In other cases all that was science and progress was persecuted because it opposed the irrational, the crepuscular, and the repressed.
 5.	The repression of sex still exists among certain so-called “primitive peoples,” just as it does in other so-called “advanced civilizations.” It is evident that although the origins of these two situations may differ, both are marked by great destructiveness.
 6.	If you ask me to explain further, I will tell you that in reality sex is sacred, and it is the center from which all life and creativity springs, just as it is from there that all destruction arises when issues about its functioning are not resolved.
@@ -203,13 +203,13 @@ Take the Force of the hidden city. Return to the world of dense life with your b
 
 ## XVIII. ACTION AND REACTION OF THE FORCE
 
-Earlier I explained to you: “Whenever you find great strength, joy, and kindness in your heart, or when you feel free and without contradictions, immediately be internally thankful.” 
+Earlier I explained to you: “Whenever you find great strength, joy, and kindness in your heart, or when you feel free and without contradictions, immediately be internally thankful.”
 1.	“To be thankful” means to concentrate these positive moods and to associate them with an image, with a representation. If you have previously linked positive states in this way, you can, upon finding yourself in a difficult situation, evoke that representation, and along with it will arise the positive quality that accompanied it earlier. Furthermore, since this mental “charge” has been increased through previous repetitions, it is capable of displacing the negative emotions that certain situations can impose.
-2.	Thus, whatever you ask for will return from within you amplified in benefit as long as you have accumulated within yourself numerous positive states. By now it should be unnecessary to repeat that, believing they would respond to prayers and supplication, this mechanism has long been used (though in confused ways) to “charge” external objects or persons, as well as internal entities that have been “projected.” 
+2.	Thus, whatever you ask for will return from within you amplified in benefit as long as you have accumulated within yourself numerous positive states. By now it should be unnecessary to repeat that, believing they would respond to prayers and supplication, this mechanism has long been used (though in confused ways) to “charge” external objects or persons, as well as internal entities that have been “projected.”
 
 ## XIX. THE INTERNAL STATES
 
-You must now gain sufficient insight into the various internal states you may find yourself in throughout the course of your life, and particularly in the course of your evolutionary work. I have no way to describe these states except by using images, in this case allegorical ones. These seem to me to have the virtue of “visually” concentrating complex states and moods. The unusual approach of linking these states to one another as if they were distinct moments in a single process introduces a departure from the typically fragmented descriptions to which we have become accustomed from those who normally deal with such things. 
+You must now gain sufficient insight into the various internal states you may find yourself in throughout the course of your life, and particularly in the course of your evolutionary work. I have no way to describe these states except by using images, in this case allegorical ones. These seem to me to have the virtue of “visually” concentrating complex states and moods. The unusual approach of linking these states to one another as if they were distinct moments in a single process introduces a departure from the typically fragmented descriptions to which we have become accustomed from those who normally deal with such things.
 1.	As I mentioned earlier, in the first state, known as Diffuse Vitality, non-meaning prevails. Here, everything is oriented by physical needs, though these are often confused with contradictory images and desires. Here, both motives and all that is done are shrouded in darkness. In this state you simply vegetate, lost among changing forms. From this point you can evolve only by following one of two paths: the way of Death or the way of Mutation.
 2.	The path of Death puts you in the presence of a dark and chaotic landscape. The ancients knew this passage and almost always located it “underground” or in the abysmal depths. There are those who visited this kingdom, to later “resurrect” in luminous levels. Understand well that “below” Death lies Diffuse Vitality. Perhaps the human mind relates mortal disintegration to subsequent phenomena of transformation; perhaps it associates this diffuse movement with what takes place before birth. If your direction is that of ascent, “Death” signifies a break with your former stage. By taking the path of Death you ascend to another state.
 3.	Arriving here you find yourself at the refuge of Regression. Two ways open from here: One is the road of Repentance; the other, which you used for the ascent, is the road of Death. If you take the first road it is because your decision tends to break with your past life. If you go back along the road of Death you fall again into the depths, with the sensation of being trapped in a closed circle.
@@ -237,34 +237,34 @@ But when all this was spoken of but set outside the mind it was an error or a li
 However, the fusing of the inner look with the external world forces this look to travel new paths.
 The heroes of this age fly toward the stars. They fly through regions previously unknown. They fly out from their world and, without knowing it, they are impelled toward the internal and luminous center.
 
-# THE EXPERIENCE 
+# THE EXPERIENCE
 
 ## THE SERVICE
 
-This ceremony is carried out at the request of a group of people. 
+This ceremony is carried out at the request of a group of people.
 
-Officiant: My mind is restless. 
+Officiant: My mind is restless.
 Participants: My mind is restless.
-Officiant: My heart is troubled. 
-Participants: My heart is troubled. 
-Officiant: My body is tense. 
+Officiant: My heart is troubled.
+Participants: My heart is troubled.
+Officiant: My body is tense.
 Participants: My body is tense.
-Officiant: I relax my body, my heart, and my mind. 
-Participants: I relax my body, my heart, and my mind. 
+Officiant: I relax my body, my heart, and my mind.
+Participants: I relax my body, my heart, and my mind.
 When possible the participants are seated. The Assistant stands, reads a Principle or a passage from The Inner Look suited to the circumstances, and invites the participants to meditate on it. After a few minutes the Officiant stands and slowly reads the following phrases, pausing after each one.
-Officiant: Completely relax your body and quiet your mind... 
-Then imagine a transparent and luminous sphere that descends toward you until it comes to rest in your heart... 
+Officiant: Completely relax your body and quiet your mind...
+Then imagine a transparent and luminous sphere that descends toward you until it comes to rest in your heart...
 Notice that the sphere begins to transform into an expanding sensation within your chest...
-The sensation of the sphere expands from your heart toward the outside of your body, at the same time that you deepen your breathing... 
+The sensation of the sphere expands from your heart toward the outside of your body, at the same time that you deepen your breathing...
 You will feel new sensations in your hands and the rest of your body…
-You will perceive increasing undulations. Positive emotions and memories will arise… 
+You will perceive increasing undulations. Positive emotions and memories will arise…
 Allow the passage of the Force to take place freely. This Force gives energy to your body and your mind…
-Let the Force manifest within you... 
+Let the Force manifest within you...
 Try to see its light within your eyes, and do not stop it from acting by itself…
-Feel the Force and its inner light. 
+Feel the Force and its inner light.
 Let it manifest freely…
-Assistant: With this Force that we have received, let us concentrate our minds on the fulfillment of what we truly need... 
-The Assistant invites everyone to stand and carry out the Asking. After allowing some time to pass. 
+Assistant: With this Force that we have received, let us concentrate our minds on the fulfillment of what we truly need...
+The Assistant invites everyone to stand and carry out the Asking. After allowing some time to pass.
 Officiant: Peace, Force, and Joy!
 Participants: For you also, Peace, Force, and Joy!
 
@@ -272,35 +272,35 @@ Participants: For you also, Peace, Force, and Joy!
 
 This ceremony is carried out at the request of one or more persons. The Officiant and the Assistant are standing.
 
-Officiant: My mind is restless. 
+Officiant: My mind is restless.
 Participants: My mind is restless.
-Officiant: My heart is troubled. 
+Officiant: My heart is troubled.
 Participants: My heart is troubled.
 Officiant: My body is tense.
 Participants: My body is tense.
 Officiant: I relax my body, my heart, and my mind.
-Participants: I relax my body, my heart, and my mind. 
+Participants: I relax my body, my heart, and my mind.
 The Officiant and the Assistant sit down and allow some time to pass. The Officiant stands.
 Officiant: If you wish to receive the Force, you should understand that at the moment of the Laying on of Hands you will begin to experience new sensations. You will perceive increasing undulations. Positive emotions and memories will arise. When this occurs, allow the passage of the Force to take place freely…
 Let the Force manifest within you, and do not stop it from acting by itself…
 Feel the Force and its inner light…
 Let the Force manifest freely…
 After some time the Assistant stands.
-Assistant: Those who wish to receive the Force may stand. 
+Assistant: Those who wish to receive the Force may stand.
 For a large number of participants, the Assistant invites them to remain standing at their seats; for smaller numbers, participants are invited to form a circle around the Officiant. After a brief time the Officiant begins the Laying on of Hands. If necessary, the Assistant may aid the circulation of the participants, at times accompanying some to their seats. Following the Laying on of Hands, some time is given for participants to assimilate the experience.
 Assistant: With this Force that we have received, let us concentrate our minds on the fulfillment of what we truly need. Or let us concentrate our minds on the fulfillment of what a loved one truly needs.
-The Assistant invites participants to stand and silently carry out their Askings. On occasion one of the participants may formulate an Asking for someone else, whether present or not. 
-After letting some time pass. 
+The Assistant invites participants to stand and silently carry out their Askings. On occasion one of the participants may formulate an Asking for someone else, whether present or not.
+After letting some time pass.
 Officiant: Peace, Force, and Joy!
 Participants: For you also, Peace, Force, and Joy!
 
 ## WELL-BEING
 
-This ceremony is carried out at the request of a group of people. When possible, the participants are seated. The Officiant and Assistant are standing. 
+This ceremony is carried out at the request of a group of people. When possible, the participants are seated. The Officiant and Assistant are standing.
 
 Assistant: We are gathered here to turn our thoughts to those dear to us. Some of them are facing difficulties in their emotional lives, some in their relationships with others, some with their health. To them we direct our thoughts and our best hopes.
-Officiant: We have faith that our call for well-being will reach them. Let us think of those dear to us. Let us feel the presence of those dear to us. Let us experience contact with those dear to us. 
-Assistant: Let us take some time to meditate on the difficulties that they are facing… 
+Officiant: We have faith that our call for well-being will reach them. Let us think of those dear to us. Let us feel the presence of those dear to us. Let us experience contact with those dear to us.
+Assistant: Let us take some time to meditate on the difficulties that they are facing…
 A few minutes are given so that the participants may meditate.
 Officiant: Now we would like these people to feel our best hopes for them. A wave of relief and well-being will reach them…
 Assistant: Let us take a short time to mentally locate the situation of well-being that we wish for our loved ones...
@@ -313,28 +313,28 @@ Officiant: This has been good for others, comforting for us, and inspiring for o
 
 This ceremony may be carried out for an individual or a group. Everyone is standing. The Officiant and the Assistant are facing the children, who are surrounded by the other participants.
 
-Assistant: The purpose of this ceremony is to give children participation in our community. 
-Since ancient times, children have been the focus of ceremonies such as namings and baptisms. Through these ceremonies people have recognized a change of status, in stage of life. 
-There are today and have long been civil formalities that record the date and place of birth and other information. However, the spiritual transcendence that accompanies a ceremony of this kind has nothing to do with the cold formalities of written documents. Rather, it flows from the joy of parents, family, and friends when children are publicly introduced to the community. 
-This is a ceremony through which the status of children changes as they become participants in a community that makes a commitment to be responsible for them should unfortunate events leave them unprotected. 
-This ceremony requests protection for this child (these children), and the community welcomes them as new sons and daughters. 
+Assistant: The purpose of this ceremony is to give children participation in our community.
+Since ancient times, children have been the focus of ceremonies such as namings and baptisms. Through these ceremonies people have recognized a change of status, in stage of life.
+There are today and have long been civil formalities that record the date and place of birth and other information. However, the spiritual transcendence that accompanies a ceremony of this kind has nothing to do with the cold formalities of written documents. Rather, it flows from the joy of parents, family, and friends when children are publicly introduced to the community.
+This is a ceremony through which the status of children changes as they become participants in a community that makes a commitment to be responsible for them should unfortunate events leave them unprotected.
+This ceremony requests protection for this child (these children), and the community welcomes them as new sons and daughters.
 Following a brief pause, the Officiant addresses those present in a warm tone.
 Officiant: We ask protection for this child (these children).
 Assistant: We welcome them with joy, and commit ourselves to their protection.
-Officiant: We extend our best wishes... Peace and joy for all! 
+Officiant: We extend our best wishes... Peace and joy for all!
 The Officiant gently lays a hand on the head of each child, kissing each one on the forehead.
 
 ## MARRIAGE
 
 Everyone is standing. For one or more couples. The Officiant and the Assistant face the couple(s).
 
-Assistant: Since ancient times marriage has been a ceremony that marks a change of status for people. 
-When we end or begin a new stage in life it is often accompanied by a corresponding ritual. Our personal and social lives are marked by rituals that, to a greater or lesser degree, we accept as customary. We greet one another in the morning differently than we do at night; we shake hands upon meeting people; we celebrate birthdays, graduations, and new jobs. Our sporting events are accompanied by rituals, and our religious, political, and civic ceremonies place us in the appropriate attitude for each occasion. 
-Marriage is an important change in the status of people, and one for which all nations require certain legal formalities. That is, the marital relationship places the spouses in a new situation with respect to the community and the State. However, when a couple establishes the bond of marriage, they do so thinking of a new way of life. They do so with profound feelings, and not merely as a formality. 
-Consequently, in this ceremony that marks a change of status, the partners have the intention to establish a new and hopefully lasting union with one another. They have the desire to receive the best from each other, and to give the best to each other. And they also intend to carry this relationship further by bringing children into the world or adopting them. 
-Seeing marriage in this way, we may acknowledge the importance of the legal formalities of this union, but in the spiritual and emotional sense we say that only the couple endows this ceremony with meaning. In other words, this ceremony brings two human beings to the situation of undertaking a new life, and through this ceremony the partners establish this profound union in accordance with their own feelings. 
+Assistant: Since ancient times marriage has been a ceremony that marks a change of status for people.
+When we end or begin a new stage in life it is often accompanied by a corresponding ritual. Our personal and social lives are marked by rituals that, to a greater or lesser degree, we accept as customary. We greet one another in the morning differently than we do at night; we shake hands upon meeting people; we celebrate birthdays, graduations, and new jobs. Our sporting events are accompanied by rituals, and our religious, political, and civic ceremonies place us in the appropriate attitude for each occasion.
+Marriage is an important change in the status of people, and one for which all nations require certain legal formalities. That is, the marital relationship places the spouses in a new situation with respect to the community and the State. However, when a couple establishes the bond of marriage, they do so thinking of a new way of life. They do so with profound feelings, and not merely as a formality.
+Consequently, in this ceremony that marks a change of status, the partners have the intention to establish a new and hopefully lasting union with one another. They have the desire to receive the best from each other, and to give the best to each other. And they also intend to carry this relationship further by bringing children into the world or adopting them.
+Seeing marriage in this way, we may acknowledge the importance of the legal formalities of this union, but in the spiritual and emotional sense we say that only the couple endows this ceremony with meaning. In other words, this ceremony brings two human beings to the situation of undertaking a new life, and through this ceremony the partners establish this profound union in accordance with their own feelings.
 We do not marry them; they marry one another before our community.
-Officiant: In order for this ceremony to be true and your own, we ask (addressing one partner): What is this marriage for you? 
+Officiant: In order for this ceremony to be true and your own, we ask (addressing one partner): What is this marriage for you?
 The one addressed by the Officiant responds aloud.
 Officiant: (addressing the other partner): What is this marriage for you?
 The one addressed by the Officiant responds aloud.
@@ -342,87 +342,87 @@ Officiant: Then this marriage will be in accordance with your expressed desires 
 
 ## ASSISTANCE
 
-This is a ceremony of great affection, requiring the person performing it to give the best of himself or herself. 
-The ceremony may be repeated at the request of the person receiving it or those caring for him or her. 
-The Officiant is alone with the dying person. 
+This is a ceremony of great affection, requiring the person performing it to give the best of himself or herself.
+The ceremony may be repeated at the request of the person receiving it or those caring for him or her.
+The Officiant is alone with the dying person.
 Regardless of whether person who is dying appears lucid or unconscious, the Officiant comes close to them and speaks slowly in a voice that is soft and clear.
 
-Officiant: The memories of your life are the judgment of your actions. You can, in a short time, recall much of what is best in you. Remember then, but without fear, and purify your memory. Gently remember, and calm your mind... 
+Officiant: The memories of your life are the judgment of your actions. You can, in a short time, recall much of what is best in you. Remember then, but without fear, and purify your memory. Gently remember, and calm your mind...
 The Officiant remains silent for a few minutes, and then resumes reading in a voice of the same tone and intensity.
 Reject startling fears and disheartenment...
 Reject the desire to flee toward low and dark regions...
 Reject the attachment to memories...
-Remain in internal liberty, indifferent toward the dream of the landscape... 
+Remain in internal liberty, indifferent toward the dream of the landscape...
 ……………………………………………….
 Resolve now to begin the ascent…
-The pure Light dawns in the summits of the great mountain chains, and the waters-of-a-thousand-colors flow amid unrecognizable melodies toward crystalline plateaus and prairies... 
-Do not fear the pressure of the Light which pushes against you with increasing strength the closer you draw to its center. Absorb it as though it were a liquid or a wind, for certainly, in it is life...  
-When you find the hidden city in the great mountain chain, you must know the entrance—and you will know it in the moment your life is transformed. Its enormous walls are written in figures, are written in colors, are “sensed.” In this city are kept the done and the yet-to-be-done… 
+The pure Light dawns in the summits of the great mountain chains, and the waters-of-a-thousand-colors flow amid unrecognizable melodies toward crystalline plateaus and prairies...
+Do not fear the pressure of the Light which pushes against you with increasing strength the closer you draw to its center. Absorb it as though it were a liquid or a wind, for certainly, in it is life...
+When you find the hidden city in the great mountain chain, you must know the entrance—and you will know it in the moment your life is transformed. Its enormous walls are written in figures, are written in colors, are “sensed.” In this city are kept the done and the yet-to-be-done…
 The Officiant leaves a brief silence, and then resumes reading in a voice of the same tone and intensity.
-Now you are reconciled... 
+Now you are reconciled...
 You are purified…
-Prepare to enter the most beautiful City of Light, this city never seen by the eye, whose song has never been heard by human ears... 
+Prepare to enter the most beautiful City of Light, this city never seen by the eye, whose song has never been heard by human ears...
 Come, prepare to enter the most beautiful Light…
 
 ## DEATH
 
 Officiant: Life has ceased in this body. We must now make an effort to separate in our minds the image of this body from the image of the person we remember...
 This body does not hear us. This body is not the person we remember...
-May those of you who do not feel the presence here of another life, separate from the body, consider that although death has paralyzed this body, the actions he/she carried out will continue to act, and their influence will never end. This chain of actions that was set in motion in life cannot be stopped by death. How profound it is to meditate on this truth, even though we may not completely comprehend the transformation of one action into another! 
+May those of you who do not feel the presence here of another life, separate from the body, consider that although death has paralyzed this body, the actions he/she carried out will continue to act, and their influence will never end. This chain of actions that was set in motion in life cannot be stopped by death. How profound it is to meditate on this truth, even though we may not completely comprehend the transformation of one action into another!
 And may those of you who do feel the presence of a separate life consider that death has only paralyzed this body, that the mind has once again triumphantly freed itself, opening its way toward the Light...
-Whatever our views, let us not weep for this body. Rather, let us meditate on the root of our beliefs, and a gentle and silent joy will come to us… 
+Whatever our views, let us not weep for this body. Rather, let us meditate on the root of our beliefs, and a gentle and silent joy will come to us…
 Peace in the heart, light in the understanding!
 
 ## RECOGNITION
 
 Recognition is a ceremony of inclusion in the Community, inclusion through common experiences, shared ideals, attitudes, and common procedures.
-The ceremony is carried out at the request of a group of people and following a Service. Those who will participate should have the written text. 
+The ceremony is carried out at the request of a group of people and following a Service. Those who will participate should have the written text.
 The Officiant and Assistant stand.
 
-Assistant: This ceremony has been requested by people who wish to actively include themselves in our Community. Through this Ceremony they express a personal and social commitment to work to improve their own lives and the lives of those around them. 
+Assistant: This ceremony has been requested by people who wish to actively include themselves in our Community. Through this Ceremony they express a personal and social commitment to work to improve their own lives and the lives of those around them.
 The Assistant invites those who wish to give testimony to stand.
 Officiant: The pain and suffering that human beings experience recedes when good knowledge advances, not knowledge at the service of selfishness and oppression.
 Good knowledge leads to justice.
 Good knowledge leads to reconciliation.
 Good knowledge also leads us to decipher the sacred in the depths of our consciousness.
 Assistant (and those giving testimony read):
-We consider the human being to be the highest value—above money, the State, religion, the models, and social systems. 
+We consider the human being to be the highest value—above money, the State, religion, the models, and social systems.
 We promote liberty of thought.
 We promote equal rights and equal opportunities for all human beings.
-We recognize and applaud diversity in customs and cultures. 
+We recognize and applaud diversity in customs and cultures.
 We oppose all discrimination.
-We consecrate just resistance against all forms of violence: physical, economic, racial, religious, sexual, psychological, and moral. 
-Officiant: Just as no one has the right to discriminate against others for their religion or their non-religiousness, we affirm our right to proclaim our spirituality and our belief in immortality and the sacred. 
+We consecrate just resistance against all forms of violence: physical, economic, racial, religious, sexual, psychological, and moral.
+Officiant: Just as no one has the right to discriminate against others for their religion or their non-religiousness, we affirm our right to proclaim our spirituality and our belief in immortality and the sacred.
 Our spirituality is not the spirituality of superstition, it is not the spirituality of intolerance, it is not the spirituality of dogma, it is not the spirituality of religious violence. It is the spirituality that has awakened from its deep sleep to nurture the best aspirations of the human being.
 Assistant (and those giving testimony read):
-We want to give coherence to our lives, to make coincide what we think, what we feel, and what we do. 
+We want to give coherence to our lives, to make coincide what we think, what we feel, and what we do.
 We want to surpass bad conscience by acknowledging our failures.
-We aspire to persuade and to reconcile. 
-We make a commitment to increasingly fulfill the rule that reminds us to “treat others as we want to be treated.” 
+We aspire to persuade and to reconcile.
+We make a commitment to increasingly fulfill the rule that reminds us to “treat others as we want to be treated.”
 Officiant: Let us begin a new life.
-Let us search within ourselves for the signs of the sacred, and let us carry our message to others. 
+Let us search within ourselves for the signs of the sacred, and let us carry our message to others.
 Assistant (and those giving testimony read):
-Today we begin to renew our lives. Let us begin by seeking mental peace and the Force that gives us joy and conviction. Afterwards, let us go to those closest to us and share with them everything great and good that has happened to us. 
-Officiant: Peace, Force, and Joy for everyone. 
+Today we begin to renew our lives. Let us begin by seeking mental peace and the Force that gives us joy and conviction. Afterwards, let us go to those closest to us and share with them everything great and good that has happened to us.
+Officiant: Peace, Force, and Joy for everyone.
 Assistant (and all those present):
 For you also, Peace, Force, and Joy.
 
 # THE PATH
 
-If you believe that your life will end with death, nothing that you think, feel, or do has any meaning. Everything will end with incoherence and disintegration. 
-If you believe that your life does not end with death, you must bring into agreement what you think with what you feel and what you do. All must advance toward coherence, toward unity. 
-If you are indifferent to the pain and suffering of others, none of the help that you ask for will find justification. 
+If you believe that your life will end with death, nothing that you think, feel, or do has any meaning. Everything will end with incoherence and disintegration.
+If you believe that your life does not end with death, you must bring into agreement what you think with what you feel and what you do. All must advance toward coherence, toward unity.
+If you are indifferent to the pain and suffering of others, none of the help that you ask for will find justification.
 If you are not indifferent to the pain and suffering of others, in order to help them you must bring your thoughts, feelings, and actions into agreement.
-Learn to treat others in the way that you want to be treated. 
-Learn to surpass pain and suffering in yourself, in those close to you, and in human society. 
-Learn to resist the violence that is within you and outside of you. 
-Learn to recognize the signs of the sacred within you and around you. 
-Do not let your life pass by without asking yourself, “Who am I?” 
-Do not let your life pass by without asking yourself, “Where am I going?” 
+Learn to treat others in the way that you want to be treated.
+Learn to surpass pain and suffering in yourself, in those close to you, and in human society.
+Learn to resist the violence that is within you and outside of you.
+Learn to recognize the signs of the sacred within you and around you.
+Do not let your life pass by without asking yourself, “Who am I?”
+Do not let your life pass by without asking yourself, “Where am I going?”
 Do not let a day pass by without giving an answer to yourself about who you are.
-Do not let a day pass by without giving an answer to yourself about where you are going. 
-Do not let a great joy pass without giving thanks internally. 
+Do not let a day pass by without giving an answer to yourself about where you are going.
+Do not let a great joy pass without giving thanks internally.
 Do not let a great sadness pass without calling into your interior for the joy that you have saved there.
-Do not imagine that you are alone in your village, in your city, on the Earth, or among the infinite worlds. 
-Do not imagine that you are enchained to this time and this space. 
-Do not imagine that in your death loneliness will become eternal. 
+Do not imagine that you are alone in your village, in your city, on the Earth, or among the infinite worlds.
+Do not imagine that you are enchained to this time and this space.
+Do not imagine that in your death loneliness will become eternal.
